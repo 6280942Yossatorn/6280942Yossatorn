@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @6280942Yossatorn
-- 👀 I’m interested in Java, C, Bash :)
+- 👀 I’m interested in Java, C, Bash, Scala, Swift, Python
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me you can't!!
